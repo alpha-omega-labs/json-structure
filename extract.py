@@ -1,4 +1,3 @@
-  GNU nano 6.2                                                                                                                        extract2.py                                                                                                                                  
 import json
 
 def extract_keys(obj, seen_keys=None, seen_structures=None):
